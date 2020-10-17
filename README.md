@@ -1,1 +1,1 @@
-# GitWorkshopDTU
+# GitWorkshopDTU Informational work
